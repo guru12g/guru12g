@@ -1,4 +1,7 @@
 ### Hi there 👋
+what are you doing today and what should we can do 
+go for home ur a waste guy
+
 
 <!--
 **guru12g/guru12g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
