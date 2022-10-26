@@ -1,6 +1,7 @@
 ### Hi there 👋
-what are you doing today and what should we can do 
-go for home ur a waste guy
+Iam guru prasad having 4 years of experince in Devops engineer
+Over 4 years of Experience as a DevOps Engineer with technical expertise in Build and Release Management,
+Continuous integration and Deployment, Software configuration management.
 
 
 <!--
@@ -8,12 +9,14 @@ go for home ur a waste guy
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Devops engineer 
+- 🌱 I’m currently learning Azure 
+- 👯 I’m looking to collaborate on Marella softlabs pvt ltd
+- 🤔 I’m looking for help with Devops engineer
+- 💬 Ask me about :-
+  very good at Ci/CD process.
+ 
+- 📫 How to reach me: 9632201121
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Curies on Cloud 
 -->
