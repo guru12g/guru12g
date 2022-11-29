@@ -1,5 +1,5 @@
 ### Hi there 👋
-Iam guru prasad having 4 years of experince in Devops engineer
+Iam guru prasad having 
 Over 4 years of Experience as a DevOps Engineer with technical expertise in Build and Release Management,
 Continuous integration and Deployment, Software configuration management.
 
